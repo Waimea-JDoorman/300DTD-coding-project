@@ -1,6 +1,6 @@
-# PROJECT NAME HERE
+# Ex-Wife Chronicles: Gas Leakage Edition
 
-### Level 3 Programming Project by YOUR NAME HERE
+### Level 3 Programming Project by Jonty Doorman
 
 This project is assessed against [AS91906](https://www.nzqa.govt.nz/nqfdocs/ncea-resource/achievements/2019/as91906.pdf)
 
@@ -8,10 +8,10 @@ This project is assessed against [AS91906](https://www.nzqa.govt.nz/nqfdocs/ncea
 
 The project involves the programming of a game.
 
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
-BRIEF PROJECT DESCRIPTION HERE
+The game is a single-player, adventure puzzle game where the player is trapped in a house.
+The player must explore the house, interacting with the rooms in order find the necessary items to escape.
+The player is timed by a gas leakage and therefore must manage their time wisely while exploring the map.
+The player wins if they are able to escape the house before the time runs out and loses if the time does run out.
 
 
 ## Source Code
